@@ -10,6 +10,7 @@ python ResumeBambuGcode.py
 ```
 Follow the prompts (you'll need to measure the height of your print in millimeters)
 It will output a new GCODE file
+It's worthwhile opening the GCODE file in bambu studio to make sure it looks correct before printing
 Save the new GCODE file to your micro SD card, put it directly into the bambu printer, and print!
 
 # Issues
